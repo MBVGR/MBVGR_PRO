@@ -30,7 +30,7 @@ with col2:
         A highly driven Python Developer with hands-on experience in web development, Data analysis, 
         and a solid understanding of Data Science practices.
         """
-    
+    )
     
     st.write(f"📧 mbvgr2003@gmail.com | 📞 +917997542876")
     st.markdown(
