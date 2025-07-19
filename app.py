@@ -27,10 +27,10 @@ with col2:
     
     st.write(
         """
-        A highly driven Python Developer with hands-on experience in Flutter, web development, Angular, 
-        and a solid understanding of DevOps practices.
+        A highly driven Python Developer with hands-on experience in web development, Data analysis, 
+        and a solid understanding of Data Science practices.
         """
-    )
+    
     
     st.write(f"📧 mbvgr2003@gmail.com | 📞 +917997542876")
     st.markdown(
