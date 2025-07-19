@@ -23,7 +23,7 @@ with col1:
 
 with col2:
     st.title("Mori Bhanu Venkata Gangadararao")
-    st.subheader("Versatile Python Developer | Web & Flutter Enthusiast")
+    st.subheader("Versatile Python Developer | Data Analyst")
     
     st.write(
         """
@@ -47,10 +47,10 @@ st.write("##")
 
 st.markdown(
     """
-    - **Programming Languages:** Advanced Python, Intermediate C, Java (Basic), C++ (Basic)
-    - **Full Stack Development:** HTML5, CSS, JavaScript, React.js
-    - **Back-End Development:** Node.js with Express, SQLite, XAMPP
-    - **Frameworks:** React.js, Angular
+    - **Programming Languages:** Advanced Python, Intermediate java
+    - **Full Stack Development:** HTML5, CSS, React.js
+    - **Back-End Development:** SQLite, XAMPP
+    - **Data Anlysis**,pandas,numpy,matplotlib
     """
 )
 
