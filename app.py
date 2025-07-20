@@ -35,7 +35,7 @@ with col2:
     st.write(f"📧 mbvgr2003@gmail.com | 📞 +917997542876")
     st.markdown(
         """
-        [LinkedIn](#) | [GitHub](https://github.com/MBVGR)
+        [LinkedIn](https://www.linkedin.com/in/mori-bhanu-venkata-gangadararao-4534a232a/) | [GitHub](https://github.com/MBVGR)
         """,
         unsafe_allow_html=True
     )
